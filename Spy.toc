@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title: |cffFFFF00Spy|r |cffFF4500Rebirth|r
+## Notes: Обнаруживает и предупреждает вас о присутствии поблизости вражеских игроков.
+## Author: Оригинал - Immolation / Переделал под Сирус - Мушу х1
+## OptionalDeps:  Ace3, LibSharedMedia-3.0, LibBabble-Class-3.0
+## SavedVariables: SpyDB
+## SavedVariablesPerCharacter: SpyPerCharDB
+
+#@no-lib-strip@
+Embeds.xml
+#@end-no-lib-strip@
+
+Spy.xml
+Locales\Spy-enUS.lua
+Spy.lua
+Fonts.lua
+Colors.lua
+Widgets.lua
+WindowOrder.lua
+MainWindow.lua
+List.lua
