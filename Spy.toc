@@ -7,6 +7,7 @@
 ## SavedVariablesPerCharacter: SpyPerCharDB
 ## X-Sirus-Update: https://github.com/ExodykeWOW/WPvP-Spy-Rebirth/tree/main
 ## X-Sirus-Category 4
+## Version: 2.06
 
 #@no-lib-strip@
 Embeds.xml
